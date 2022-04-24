@@ -28,21 +28,29 @@
     {
         "id": "1",
         "id_cat": "1",
-        "title": "B and L's Strawberry Smoothie",
-        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9219069.jpg&w=300&h=300&c=sc&poi=face&q=60",
-        "paragraphe": "You'll love this icy cold strawberry smoothie.",
+        "title": "Grapefruit Smoothie",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1946239.jpg&w=595&h=595&c=sc&poi=face&q=60",
+        "paragraphe": "A healthy, easy, and satisfying smoothie for those who enjoy grapefruit or are looking for a drink that is lower in sugar and calories. This is loaded with taste and is good for you!",
         "duration": [
-            "eng 1",
-            "eng2"
+            "10 mins",
+            "10 mins",
+            "2",
+            "2 servings"
         ],
         "ingrediants": [
-            "eng 1",
-            "eng2"
+            "3 grapefruit, peeled and sectioned",
+            "1 cup cold water",
+            "3 ounces fresh spinach",
+            "6 ice cubes",
+            "1 (1/2 inch) piece peeled fresh ginger",
+            "1 teaspoon flax seeds"
         ],
         "steps": [
-            "step1",
-            "step2"
+            "Blend grapefruit",
+            "water",
+            "spinach, ice cubes, ginger",
+            "and flax seeds in a blender or NutriBullet® until smooth"
         ],
-        "nutrition": "nutrition facts per servings"
+        "nutrition": "202 calories; protein 4.6g; carbohydrates 47.4g; fat 1g; sodium 39.4mg. Full Nutrition"
     }
 ]
