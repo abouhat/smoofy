@@ -1,0 +1,48 @@
+[
+    {
+        "id": "2",
+        "id_cat": "2",
+        "title": "Papaya Surprise Smoothie",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F164054.jpg&w=300&h=300&c=sc&poi=face&q=60",
+        "paragraphe": "Papaya's sunny flavor is a great addition to banana and strawberry, the traditional smoothie favorites.",
+        "duration": [
+            "10 mins",
+            "10 mins",
+            "2",
+            "2 servings"
+        ],
+        "ingrediants": [
+            "1 papaya - peeled, seeded and diced",
+            "1 banana, peeled and sliced",
+            "½ cup sliced fresh strawberries",
+            "⅓ cup milk",
+            "¼ cup sugar",
+            "15 ice cubes"
+        ],
+        "steps": [
+            "a blender",
+            "blend the papaya, banana, strawberries, milk, sugar, and ice cubes until smooth"
+        ],
+        "nutrition": "228 calories; protein 2.9g; carbohydrates 55.1g; fat 1.3g; cholesterol 3.3mg; sodium 24.9mg."
+    },
+    {
+        "id": "1",
+        "id_cat": "1",
+        "title": "B and L's Strawberry Smoothie",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9219069.jpg&w=300&h=300&c=sc&poi=face&q=60",
+        "paragraphe": "You'll love this icy cold strawberry smoothie.",
+        "duration": [
+            "eng 1",
+            "eng2"
+        ],
+        "ingrediants": [
+            "eng 1",
+            "eng2"
+        ],
+        "steps": [
+            "step1",
+            "step2"
+        ],
+        "nutrition": "nutrition facts per servings"
+    }
+]
