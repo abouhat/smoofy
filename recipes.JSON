@@ -1,5 +1,55 @@
 [
     {
+        "id": "4",
+        "id_cat": "2",
+        "title": "Chocolate Strawberry Smoothie",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2610566.jpg&w=595&h=595&c=sc&poi=face&q=60",
+        "paragraphe": "This strawberry, banana chocolate yogurt shake makes a wonderful treat for any occasion.",
+        "duration": [
+            "2 mins",
+            "2 mins",
+            "2",
+            "2 servings"
+        ],
+        "ingrediants": [
+            "2 bananas, frozen and chunked",
+            "½ cup frozen strawberries",
+            "2 tablespoons chocolate syrup",
+            "1 cup plain yogurt"
+        ],
+        "steps": [
+            "In a blender combine bananas, strawberries, chocolate syrup and yogurt.",
+            "Blend until smooth.",
+            "Pour into glasses and serve."
+        ],
+        "nutrition": "248 calories; protein 8.3g; carbohydrates 51.2g; fat 2.5g; cholesterol 7.4mg; sodium 101.2mg."
+    },
+    {
+        "id": "3",
+        "id_cat": "3",
+        "title": "Banana Flip",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9041052.jpg&w=595&h=595&c=sc&poi=face&q=60",
+        "paragraphe": "A marvelous mouth-watering chocolate-banana milkshake!",
+        "duration": [
+            "5 mins",
+            "5 mins",
+            "2",
+            "2 servings"
+        ],
+        "ingrediants": [
+            "1 banana",
+            "1 ¾ cups milk",
+            "3 tablespoons powdered chocolate drink mix",
+            "2 tablespoons white sugar"
+        ],
+        "steps": [
+            "In a blender, combine banana, milk, chocolate drink mix and sugar.",
+            "Blend until smooth.",
+            "Pour into glasses and serve."
+        ],
+        "nutrition": "238 calories; protein 7.9g; carbohydrates 42.7g; fat 4.6g; cholesterol 17.1mg; sodium 103.6mg"
+    },
+    {
         "id": "2",
         "id_cat": "2",
         "title": "B and L's Strawberry Smoothie",
