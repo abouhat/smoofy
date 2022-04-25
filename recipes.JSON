@@ -1,7 +1,10 @@
 [
     {
         "id": "4",
-        "id_cat": "2",
+        "id_cat": [
+            "2",
+            "3"
+        ],
         "title": "Chocolate Strawberry Smoothie",
         "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2610566.jpg&w=595&h=595&c=sc&poi=face&q=60",
         "paragraphe": "This strawberry, banana chocolate yogurt shake makes a wonderful treat for any occasion.",
@@ -26,7 +29,9 @@
     },
     {
         "id": "3",
-        "id_cat": "3",
+        "id_cat": [
+            "3"
+        ],
         "title": "Banana Flip",
         "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9041052.jpg&w=595&h=595&c=sc&poi=face&q=60",
         "paragraphe": "A marvelous mouth-watering chocolate-banana milkshake!",
@@ -51,7 +56,9 @@
     },
     {
         "id": "2",
-        "id_cat": "2",
+        "id_cat": [
+            "2"
+        ],
         "title": "B and L's Strawberry Smoothie",
         "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9219069.jpg&w=595&h=595&c=sc&poi=face&q=60",
         "paragraphe": "You'll love this icy cold strawberry smoothie.",
@@ -79,7 +86,9 @@
     },
     {
         "id": "1",
-        "id_cat": "1",
+        "id_cat": [
+            "1"
+        ],
         "title": "Grapefruit Smoothie",
         "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1946239.jpg&w=595&h=595&c=sc&poi=face&q=60",
         "paragraphe": "A healthy, easy, and satisfying smoothie for those who enjoy grapefruit or are looking for a drink that is lower in sugar and calories. This is loaded with taste and is good for you!",
