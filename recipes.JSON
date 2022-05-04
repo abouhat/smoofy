@@ -1,9 +1,9 @@
 [
     {
-        "id": "4",
+        "id": "3",
         "id_cat": [
-            "2",
-            "3"
+            "1",
+            "2"
         ],
         "title": "Chocolate Strawberry Smoothie",
         "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2610566.jpg&w=595&h=595&c=sc&poi=face&q=60",
@@ -28,9 +28,9 @@
         "nutrition": "248 calories; protein 8.3g; carbohydrates 51.2g; fat 2.5g; cholesterol 7.4mg; sodium 101.2mg."
     },
     {
-        "id": "3",
+        "id": "2",
         "id_cat": [
-            "3"
+            "2"
         ],
         "title": "Banana Flip",
         "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9041052.jpg&w=595&h=595&c=sc&poi=face&q=60",
@@ -55,9 +55,9 @@
         "nutrition": "238 calories; protein 7.9g; carbohydrates 42.7g; fat 4.6g; cholesterol 17.1mg; sodium 103.6mg"
     },
     {
-        "id": "2",
+        "id": "1",
         "id_cat": [
-            "2"
+            "1"
         ],
         "title": "B and L's Strawberry Smoothie",
         "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9219069.jpg&w=595&h=595&c=sc&poi=face&q=60",
@@ -85,9 +85,9 @@
         "nutrition": "160 calories; protein 5.6g; carbohydrates 30.3g; fat 1.1g; cholesterol 4.9mg; sodium 71.4mg"
     },
     {
-        "id": "1",
+        "id": "0",
         "id_cat": [
-            "1"
+            "0"
         ],
         "title": "Grapefruit Smoothie",
         "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1946239.jpg&w=595&h=595&c=sc&poi=face&q=60",
