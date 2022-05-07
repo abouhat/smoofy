@@ -2,7 +2,7 @@
     {
         "id": "21",
         "id_cat": [
-            "1"
+            "1","4"
         ],
         "title": "Keto Margarita",
         "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5578525.jpg",
@@ -33,7 +33,7 @@
     {
         "id": "20",
         "id_cat": [
-            "1"
+            "1","4"
         ],
         "title": "Keto Avocado-Spinach Smoothie",
         "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6839734.jpg",
