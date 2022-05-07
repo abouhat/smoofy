@@ -1,5 +1,65 @@
 [
     {
+        "id": "21",
+        "id_cat": [
+            "1"
+        ],
+        "title": "Keto Avocado-Spinach Smoothie",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6839734.jpg",
+        "paragraphe": "Keto avocado and spinach smoothie",
+        "duration": [
+            "5 mins",
+            "5 mins",
+            "2",
+            "2 servings"
+        ],
+        "ingrediants": [
+            "½ cup coconut milk",
+            "½ cup water, or more as needed",
+            "ice cubes",
+            "½ medium avocado, pitted and scooped from shell",
+            "½ cup fresh spinach",
+            "2 tablespoons erythritol",
+            "1 tablespoon medium-chain triglyceride (MCT) oil",
+            "½ teaspoon vanilla powder"
+        ],
+        "steps": [
+            "Combine coconut milk, water, ice cubes, avocado, spinach, erythritol, MCT oil, and vanilla powder in a blender.",
+            "Blend until smooth."
+        ],
+        "nutrition": "256 calories; protein 2.4g; carbohydrates 17.6g; fat 26.4g; sodium 19.5mg"
+    },
+    {
+        "id": "20",
+        "id_cat": [
+            "1"
+        ],
+        "title": "Keto Avocado-Spinach Smoothie",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6839734.jpg",
+        "paragraphe": "Keto avocado and spinach smoothie",
+        "duration": [
+            "5 mins",
+            "5 mins",
+            "2",
+            "2 servings"
+        ],
+        "ingrediants": [
+            "½ cup coconut milk",
+            "½ cup water, or more as needed",
+            "ice cubes",
+            "½ medium avocado, pitted and scooped from shell",
+            "½ cup fresh spinach",
+            "2 tablespoons erythritol",
+            "1 tablespoon medium-chain triglyceride (MCT) oil",
+            "½ teaspoon vanilla powder"
+        ],
+        "steps": [
+            "Combine coconut milk, water, ice cubes, avocado, spinach, erythritol, MCT oil, and vanilla powder in a blender.",
+            "Blend until smooth."
+        ],
+        "nutrition": "256 calories; protein 2.4g; carbohydrates 17.6g; fat 26.4g; sodium 19.5mg"
+    },
+    {
         "id": "19",
         "id_cat": [
             "2"
