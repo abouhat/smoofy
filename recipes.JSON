@@ -1,5 +1,171 @@
 [
     {
+        "id": "10",
+        "id_cat": [
+            "3"
+        ],
+        "title": "Orange Banana Smoothie",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F620371.jpg",
+        "paragraphe": "Filling enough to have as a breakfast - I recommend it!",
+        "duration": [
+            "5 mins",
+            "5 mins",
+            "2",
+            "2 servings"
+        ],
+        "ingrediants": [
+            "1 cup cold milk",
+            "2 oranges, peeled and segmented",
+            "1 banana",
+            "¼ cup sugar",
+            "1 pinch salt",
+            "½ (8 ounce) container vanilla fat-free yogurt",
+            "4 cubes ice"
+        ],
+        "steps": [
+            "In a blender, combine milk, oranges, banana, sugar, salt and yogurt.",
+            "Blend for about 1 minute.",
+            "Insert ice cubes, and blend until smooth.",
+            "Pour into glasses and serve."
+        ],
+        "nutrition": "340 calories; protein 9.1g; carbohydrates 73.7g; fat 2.9g; cholesterol 10.7mg; sodium 90.2mg."
+    },
+    {
+        "id": "9",
+        "id_cat": [
+            "3"
+        ],
+        "title": "Peanut Butter Banana Smoothie",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9062256.jpg&w=596&h=596&c=sc&poi=face&q=60",
+        "paragraphe": "This peanut butter banana smoothie is so refreshing, and it's sweet and tasty.",
+        "duration": [
+            "5 mins",
+            "5 mins",
+            "4",
+            "4 servings"
+        ],
+        "ingrediants": [
+            "2 bananas, broken into chunks",
+            "2 cups milk",
+            "½ cup peanut butter",
+            "2 tablespoons honey, or to taste",
+            "2 cups ice cubes"
+        ],
+        "steps": [
+            "Place bananas, milk, peanut butter, honey, and ice cubes in a blender",
+            "blend until smooth, about 30 seconds."
+        ],
+        "nutrition": "335 calories; protein 12.8g; carbohydrates 34.1g; fat 18.8g; cholesterol 9.8mg; sodium 202.8mg."
+    },
+    {
+        "id": "8",
+        "id_cat": [
+            "3"
+        ],
+        "title": "Pineapple and Banana Smoothie",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5634172.jpg&w=596&h=596&c=sc&poi=face&q=60",
+        "paragraphe": "A gorgeous and indulgent smoothie, but totally healthy!",
+        "duration": [
+            "3 mins",
+            "3 mins",
+            "1",
+            "1 smoothie"
+        ],
+        "ingrediants": [
+            "4 ice cubes",
+            "¼ fresh pineapple - peeled, cored and cubed",
+            "1 large banana, cut into chunks",
+            "1 cup pineapple or apple juice"
+        ],
+        "steps": [
+            "Place ice cubes, pineapple, banana, and pineapple juice into the bowl of a blender.",
+            "Puree on high until smooth."
+        ],
+        "nutrition": "313 calories; protein 3g; carbohydrates 78.7g; fat 0.9g; sodium 10.1mg. "
+    },
+    {
+        "id": "7",
+        "id_cat": [
+            "3"
+        ],
+        "title": "Simple Banana Smoothie",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9176487.jpg&w=595&h=595&c=sc&poi=face&q=60",
+        "paragraphe": "A quick and easy smoothie with only a few ingredients that tastes amazing! I make this with Mott's® fresh-pressed apple juice because it's nice and thick. I also use raw blackberry honey.",
+        "duration": [
+            "5 mins",
+            "5 mins",
+            "1",
+            "2 Cups"
+        ],
+        "ingrediants": [
+            "¾ cup vanilla yogurt",
+            "½ cup apple juice",
+            "1 tablespoon honey, or to taste",
+            "2 ripe bananas",
+            "1 teaspoon milk, or to taste",
+            "4 ice cubes"
+        ],
+        "steps": [
+            "Blend yogurt, apple juice, honey, bananas",
+            "milk and ice cubes in a blender until smooth."
+        ],
+        "nutrition": "488 calories; protein 11.8g; carbohydrates 111g; fat 3.2g; cholesterol 9.2mg; sodium 130.7mg."
+    },
+    {
+        "id": "6",
+        "id_cat": [
+            "3",
+            "1"
+        ],
+        "title": "Kale and Banana Smoothie",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets-ucg.meredithcorp.io%2F1157d004b3d2c29fe64b121e32324d2f%2F3916484.jpg&w=596&h=596&c=sc&poi=face&q=60",
+        "paragraphe": "Nutrient-rich kale is hidden in this delicious banana smoothie. perfect for those of us who have a hard time getting our daily dose of veggies",
+        "duration": [
+            "5 mins",
+            "5 mins",
+            "1",
+            "1 servings"
+        ],
+        "ingrediants": [
+            "1 banana",
+            "2 cups chopped kale",
+            "½ cup light unsweetened soy milk",
+            "1 tablespoon flax seeds",
+            "1 teaspoon maple syrup"
+        ],
+        "steps": [
+            "Place the banana, kale, soy milk, flax seeds",
+            "flax seeds, and maple syrup into a blender",
+            "Cover, and puree until smooth",
+            "Serve over ice."
+        ],
+        "nutrition": "311 calories; protein 12.2g; carbohydrates 56.6g; fat 7.3g; sodium 109.8mg."
+    },
+    {
+        "id": "5",
+        "id_cat": [
+            "3"
+        ],
+        "title": "Milk Banana Smoothie",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4894643.jpg&w=595&h=791&c=sc&poi=face&q=60",
+        "paragraphe": "Low fat, no-sugar-added milk banana smoothie.",
+        "duration": [
+            "5 mins",
+            "5 mins",
+            "1",
+            "1 servings"
+        ],
+        "ingrediants": [
+            "1 cup milk",
+            "1 ½ bananas",
+            "5 (1 gram) packets low calorie granulated sugar substitute (such as Sweet 'n Low®)"
+        ],
+        "steps": [
+            "Blend milk, bananas, and sugar substitute in a blender or food processor until smooth."
+        ],
+        "nutrition": "280 calories; protein 10g; carbohydrates 56.8g; fat 5.4g; cholesterol 19.5mg; sodium 101.8mg."
+    },
+    {
         "id": "4",
         "id_cat": [
             "2",
