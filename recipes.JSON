@@ -4,30 +4,31 @@
         "id_cat": [
             "1"
         ],
-        "title": "Keto Avocado-Spinach Smoothie",
-        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6839734.jpg",
-        "paragraphe": "Keto avocado and spinach smoothie",
+        "title": "Keto Margarita",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5578525.jpg",
+        "paragraphe": "Enjoy this keto margarita without feeling guilty! This recipe uses Swerveu0026reg; instead of sugar, and orange-flavored sparkling water to mimic the taste of orange liqueur.",
         "duration": [
-            "5 mins",
-            "5 mins",
-            "2",
-            "2 servings"
+            "10 mins",
+            "10 mins",
+            "1",
+            "1 margarita"
         ],
         "ingrediants": [
-            "½ cup coconut milk",
-            "½ cup water, or more as needed",
-            "ice cubes",
-            "½ medium avocado, pitted and scooped from shell",
-            "½ cup fresh spinach",
-            "2 tablespoons erythritol",
-            "1 tablespoon medium-chain triglyceride (MCT) oil",
-            "½ teaspoon vanilla powder"
+            "3 cups ice",
+            "2 fluid ounces tequila",
+            "1 fluid ounce lime juice",
+            "2 ½ teaspoons low-calorie natural sweetener (such as Swerve®)",
+            "1 tablespoon coarse salt",
+            "2 lime wedges",
+            "1 pint-sized Mason jar",
+            "2 fluid ounces orange-flavored sparkling water (such as La Croix®)"
         ],
         "steps": [
-            "Combine coconut milk, water, ice cubes, avocado, spinach, erythritol, MCT oil, and vanilla powder in a blender.",
-            "Blend until smooth."
+            "Fill a shaker half-full with ice. Add tequila, lime juice, and sweetener to the shaker. Seal and shake vigorously until outside is frosted, 10 to 15 seconds",
+            "Place salt on a plate. Run 1 lime wedge along the rim of the Mason jar. Press the jar down into the salt. Fill the jar with ice cubes",
+            "Strain margarita into the jar. Top with sparkling water and stir. Garnish with remaining lime wedge"
         ],
-        "nutrition": "256 calories; protein 2.4g; carbohydrates 17.6g; fat 26.4g; sodium 19.5mg"
+        "nutrition": "142 calories; protein 0.2g; carbohydrates 3.6g; sodium 5785.4mg"
     },
     {
         "id": "20",
