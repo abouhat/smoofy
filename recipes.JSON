@@ -1,5 +1,255 @@
 [
     {
+        "id": "19",
+        "id_cat": [
+            "2"
+        ],
+        "title": "Strawberry Banana Protein Smoothie",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F404644.jpg",
+        "paragraphe": "This balanced smoothie is great for a meal replacement or after a workout",
+        "duration": [
+            "10 mins",
+            "10 mins",
+            "1",
+            "1 smoothie"
+        ],
+        "ingrediants": [
+            "1 banana",
+            "1 ¼ cups sliced fresh strawberries",
+            "10 whole almonds",
+            "2 tablespoons water",
+            "1 cup ice cubes",
+            "3 tablespoons chocolate flavored protein powder"
+        ],
+        "steps": [
+            "Place the banana, strawberries, almonds, and water into a blender",
+            "Blend to mix, then add the ice cubes and puree until smooth",
+            "Add the protein powder, and continue mixing until evenly incorporated, about 30 seconds"
+        ],
+        "nutrition": "349 calories; protein 21g; carbohydrates 53.2g; fat 8.1g; sodium 194.5mg"
+    },
+    {
+        "id": "18",
+        "id_cat": [
+            "2"
+        ],
+        "title": "Strawberry-Lime-Cilantro Smoothie",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6950247.jpg",
+        "paragraphe": "This refreshing strawberry and cilantro smoothie is packed with vitamins and minerals with the addition of a savory herb. A frozen banana makes it creamy and sweet",
+        "duration": [
+            "10 mins",
+            "10 mins",
+            "1",
+            "1 smoothie"
+        ],
+        "ingrediants": [
+            "1 cup frozen strawberries, slightly thawed and chopped",
+            "1 frozen banana, chopped",
+            "½ cup unsweetened almond milk",
+            "½ cup ice",
+            "¼ cup chopped cilantro, leaves and stems, lightly packed",
+            "1 tablespoon lime juice",
+            "½ teaspoon stevia powder (Optional)"
+        ],
+        "steps": [
+            "Combine strawberries, banana, almond milk, ice, cilantro, lime juice, and stevia powder in a blender",
+            "Process until smooth, adding more almond milk or water for a smoother consistency."
+        ],
+        "nutrition": "222 calories; protein 3.1g; carbohydrates 54.5g; fat 2g; sodium 91.1mg"
+    },
+    {
+        "id": "17",
+        "id_cat": [
+            "2"
+        ],
+        "title": "Strawberry Raspberry Smoothie",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8148931.jpg",
+        "paragraphe": "Basic smoothie made with healthy ingredients. Choose organic, pesticide-free berries, probiotic yogurt and local honey if possible",
+        "duration": [
+            "10 mins",
+            "10 mins",
+            "1",
+            "1 smoothie"
+        ],
+        "ingrediants": [
+            "1 cup hulled fresh strawberries",
+            "½ cup frozen raspberries",
+            "½ cup lowfat milk",
+            "½ cup vanilla yogurt",
+            "1 tablespoon honey",
+            "1 teaspoon vanilla extract"
+        ],
+        "steps": [
+            "Blend strawberries, raspberries, milk, yogurt, honey, and vanilla",
+            "extract in a blender until smooth."
+        ],
+        "nutrition": "318 calories; protein 11.7g; carbohydrates 58.6g; fat 4.7g; cholesterol 15.9mg; sodium 133.5mg"
+    },
+    {
+        "id": "16",
+        "id_cat": [
+            "2"
+        ],
+        "title": "Chocolate-Covered Strawberries Smoothie",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4469912.jpg",
+        "paragraphe": "This delicious smoothie is totally healthy, but tastes just like fresh strawberries dipped in creamy, decadent chocolate",
+        "duration": [
+            "5 mins",
+            "5 mins",
+            "2",
+            "2 smoothies"
+        ],
+        "ingrediants": [
+            "1 cup light vanilla soy milk",
+            "⅓ cup light silken tofu",
+            "1 tablespoon maple syrup",
+            "1 tablespoon unsweetened cocoa powder",
+            "1 ½ cups frozen strawberries"
+        ],
+        "steps": [
+            "Combine soy milk, tofu, maple syrup, and cocoa powder in a blender",
+            "pulse until smooth.",
+            "Add strawberries",
+            "blend until smooth."
+        ],
+        "nutrition": "142 calories; protein 6.7g; carbohydrates 28g; fat 1.8g; sodium 98.2mg"
+    },
+    {
+        "id": "15",
+        "id_cat": [
+            "2"
+        ],
+        "title": "Kiwi Strawberry Smoothie",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F407631.jpg",
+        "paragraphe": "Fruity goodness for smoothie lovers",
+        "duration": [
+            "5 mins",
+            "5 mins",
+            "2",
+            "2 servings"
+        ],
+        "ingrediants": [
+            "1 banana",
+            "6 strawberries",
+            "1 kiwi",
+            "½ cup vanilla frozen yogurt",
+            "¾ cup pineapple and orange juice blend"
+        ],
+        "steps": [
+            "Place the banana, strawberries, kiwi, vanilla frozen yogurt, and pineapple and orange juice blend in a blender.",
+            "Blend until smooth."
+        ],
+        "nutrition": "204 calories; protein 4.3g; carbohydrates 48.1g; fat 0.5g; cholesterol 1.5mg; sodium 33.7mg"
+    },
+    {
+        "id": "14",
+        "id_cat": [
+            "2"
+        ],
+        "title": "Chocolate-Covered Strawberry Smoothie",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1947023.jpg",
+        "paragraphe": "This is a yummy nutritious shake that you can have for breakfast or a snack. There are also variations you can make to make it healthier or tastier. For a healthier smoothie, add 1 tablespoon wheat germ. If you care more about taste than nutrition, use a chocolate-milk mix like Nesquick®, and use 1/2 cup vanilla yogurt in place of the plain yogurt and vanilla extract.   ",
+        "duration": [
+            "10 mins",
+            "10 mins",
+            "1",
+            "1 smoothie"
+        ],
+        "ingrediants": [
+            "1 cup milk",
+            "1 cup frozen strawberries",
+            "½ cup plain yogurt",
+            "6 tablespoons powdered chocolate-flavored malt drink mix (such as Ovaltine®)",
+            "1 teaspoon vanilla extract"
+        ],
+        "steps": [
+            "Blend milk, strawberries, yogurt, chocolate-flavored malt drink mix, and vanilla",
+            "extract together in a blender until smooth."
+        ],
+        "nutrition": "409 calories; protein 18.4g; carbohydrates 67.8g; fat 7g; cholesterol 26.9mg; sodium 273.1mg"
+    },
+    {
+        "id": "13",
+        "id_cat": [
+            "2"
+        ],
+        "title": "Silky Strawberry Smoothie",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1123712.jpg",
+        "paragraphe": "This smoothie is 100% vegan and the tofu adds an amazing silky texture.",
+        "duration": [
+            "10 mins",
+            "10 mins",
+            "2",
+            "2 servings"
+        ],
+        "ingrediants": [
+            "1 cup fresh strawberries",
+            "1 banana, sliced",
+            "1 cup ice",
+            "½ cup silken tofu",
+            "1 teaspoon agave nectar (Optional)"
+        ],
+        "steps": [
+            "Blend strawberries, banana, ice, tofu, and agave nectar together in a blender until smooth."
+        ],
+        "nutrition": "126 calories; protein 5.4g; carbohydrates 23.6g; fat 2.1g; sodium 27.4mg"
+    },
+    {
+        "id": "12",
+        "id_cat": [
+            "2"
+        ],
+        "title": "Tasty Strawberry Smoothie",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1128047.jpg",
+        "paragraphe": "Tasty and easy. Delish! A combination of three other recipes I tried",
+        "duration": [
+            "5 mins",
+            "5 mins",
+            "1",
+            "1 smoothie"
+        ],
+        "ingrediants": [
+            "1 (6 ounce) container low-fat strawberry yogurt",
+            "¾ cup low-fat milk",
+            "½ cup frozen strawberries",
+            "¼ cup ground oats",
+            "1 teaspoon flax seed meal",
+            "½ teaspoon vanilla extract"
+        ],
+        "steps": [
+            "lend yogurt, milk, strawberries, oats, flax, and vanilla",
+            "extract in a blender until smooth, about 30 seconds."
+        ],
+        "nutrition": "377 calories; protein 16.5g; carbohydrates 64.9g; fat 5.6g; cholesterol 22.7mg; sodium 189.2mg"
+    },
+    {
+        "id": "11",
+        "id_cat": [
+            "2"
+        ],
+        "title": "Strawberry-Banana-Peanut Butter Smoothie",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4508285.jpg",
+        "paragraphe": "This creamy treat has protein and no added sugar for a yummy breakfast or dessert",
+        "duration": [
+            "10 mins",
+            "10 mins",
+            "1",
+            "1 smoothie"
+        ],
+        "ingrediants": [
+            "½ cup nonfat plain yogurt",
+            "2 tablespoons peanut butter",
+            "1 banana",
+            "4 fresh strawberries, hulled",
+            "10 ice cubes"
+        ],
+        "steps": [
+            "Place yogurt, peanut butter, banana, strawberries, and ice cubes into a blender",
+            "Puree until smooth."
+        ],
+        "nutrition": "389 calories; protein 16.2g; carbohydrates 45.6g; fat 18.8g; cholesterol 7.4mg; sodium 243mg"
+    },
+    {
         "id": "10",
         "id_cat": [
             "3"
