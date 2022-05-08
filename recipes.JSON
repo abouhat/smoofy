@@ -1,8 +1,359 @@
 [
     {
+        "id": "33",
+        "id_cat": [
+            "4",
+            "3"
+        ],
+        "title": "Simple Summer Smoothie",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4883666.jpg",
+        "paragraphe": "I just gathered together my favorite fruits and added what else was needed. If you like, use a multigrain bar (I use Entenmann's strawberry flavored), crumble it, and sprinkle some on top of each smoothie",
+        "duration": [
+            "10 mins",
+            "10 mins",
+            "4",
+            "4 cups"
+        ],
+        "ingrediants": [
+            "1 banana",
+            "1 cup frozen strawberries",
+            "1 cup frozen blueberries",
+            "1 cup frozen cherries",
+            "4 ice cubes",
+            "½ cup orange juice",
+            "¾ cup vanilla yogurt",
+            "½ teaspoon honey (Optional)"
+        ],
+        "steps": [
+            "Place the banana, strawberries, blueberries, cherries, and ice cubes into a blender",
+            "Pour in the orange juice, vanilla yogurt, and honey",
+            "Puree until smooth"
+        ],
+        "nutrition": "139 calories; protein 3.6g; carbohydrates 31.1g; fat 1.2g; cholesterol 2.3mg; sodium 33.5mg"
+    },
+    {
+        "id": "32",
+        "id_cat": [
+            "4"
+        ],
+        "title": "Heavenly Blueberry Smoothie",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F410436.jpg",
+        "paragraphe": "This blueberry smoothie is to die for! It tastes so good, you forget that it's good for y",
+        "duration": [
+            "10 mins",
+            "10 mins",
+            "2",
+            "2 cups"
+        ],
+        "ingrediants": [
+            "1 frozen banana, thawed for 10 to 15 minutes",
+            "½ cup vanilla soy milk",
+            "1 cup vanilla fat-free yogurt",
+            "1 ½ teaspoons flax seed meal",
+            "1 ½ teaspoons honey",
+            "⅔ cup frozen blueberries"
+        ],
+        "steps": [
+            "Cut banana into small pieces and place into the bowl of a blender",
+            "Add the soy milk, yogurt, flax seed meal, and honey",
+            "Blend on lowest speed until smooth, about 5 seconds",
+            "Gradually add the blueberries while continuing to blend on low",
+            "Once the blueberries have been incorporated, increase speed, and blend to desired consistency."
+        ],
+        "nutrition": "250 calories; protein 9.5g; carbohydrates 50.2g; fat 2.6g; cholesterol 2mg; sodium 116.8mg"
+    },
+    {
+        "id": "31",
+        "id_cat": [
+            "4",
+            "2"
+        ],
+        "title": "Papaya Passion Smoothie",
+        "imgURL": "https://images.eatsmarter.com/sites/default/files/styles/1600x1200/public/papaya-juice-605904.jpg",
+        "paragraphe": "This is the most delicate, creamiest papaya smoothie ever. It is very refreshing and tasty",
+        "duration": [
+            "10 mins",
+            "10 mins",
+            "6",
+            "6 cups"
+        ],
+        "ingrediants": [
+            "2 cups papaya - peeled, seeded and cubed",
+            "2 cups milk",
+            "¼ cup white sugar",
+            "¼ cup sweetened condensed milk",
+            "1 cup vanilla yogurt",
+            "2 tablespoons cream cheese",
+            "2 cups ice"
+        ],
+        "steps": [
+            "Place papaya, milk, sugar, condensed milk, yogurt, cream cheese, and ice in a blender",
+            "Blend until smooth",
+            "Serve immediately"
+        ],
+        "nutrition": "184 calories; protein 6.4g; carbohydrates 29.4g; fat 5g; cholesterol 18.2mg; sodium 92.2mg"
+    },
+    {
+        "id": "30",
+        "id_cat": [
+            "4",
+            "2"
+        ],
+        "title": "Mint and Fruit Smoothie",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7916646.jpg",
+        "paragraphe": "This quick, frosty blender recipe has a thick texture, beautiful colors, and a fruity, mojito-like taste",
+        "duration": [
+            "10 mins",
+            "10 mins",
+            "2",
+            "2 cups"
+        ],
+        "ingrediants": [
+            "¼ cup red seedless grapes, frozen",
+            "¼ cup unsweetened applesauce, or to taste",
+            "1 tablespoon fresh lime juice",
+            "3 frozen strawberries",
+            "1 cup cubed fresh pineapple",
+            "3 fresh mint leaves"
+        ],
+        "steps": [
+            "Place frozen grapes, applesauce, and lime juice into a blender.",
+            "Puree until smooth",
+            "Add frozen strawberries, cubed pineapple, and mint leaves",
+            "Pulse a few times until the strawberries and pineapple are in small bits"
+        ],
+        "nutrition": "92 calories; protein 0.8g; carbohydrates 24.1g; fat 0.3g; sodium 2.3mg"
+    },
+    {
+        "id": "29",
+        "id_cat": [
+            "4",
+            "2"
+        ],
+        "title": "Energetic Strawberry Smoothie",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8829915.jpg",
+        "paragraphe": "This is a very simple strawberry smoothie. I learned the recipe from my friends who work at Mercer's cafe",
+        "duration": [
+            "5 mins",
+            "5 mins",
+            "2",
+            "2 servings"
+        ],
+        "ingrediants": [
+            "1 (8.3 ounce) can citrus flavored energy drink (e.g. Red Bull™)",
+            "2 cups frozen strawberries"
+        ],
+        "steps": [
+            "In the container of a blender, combine the energy drink and frozen strawberries",
+            "Blend until smooth and creamy, about 1 minute"
+        ],
+        "nutrition": "Add some water if blending is difficult. Pour into 2 big glasses"
+    },
+    {
+        "id": "28",
+        "id_cat": [
+            "4",
+            "3"
+        ],
+        "title": "Nourish & Refresh Smoothie",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4528370.jpg",
+        "paragraphe": "Take a break on a busy afternoon for a quick and delicious spinach, banana, cherry, and coconutmilk-almondmilk smoothie",
+        "duration": [
+            "5 mins",
+            "5 mins",
+            "1",
+            "1 smoothie"
+        ],
+        "ingrediants": [
+            "⅓ cup fresh spinach",
+            "½ frozen banana",
+            "⅓ cup pitted cherries",
+            "1 cup Almond Breeze Coconutmilk Almondmilk Original Unsweetened"
+        ],
+        "steps": [
+            "Place all ingredients into blender and blend on high until smooth"
+        ],
+        "nutrition": "135 calories; protein 2.5g; carbohydrates 22.8g; fat 4.2g; sodium 128.5mg"
+    },
+    {
+        "id": "27",
+        "id_cat": [
+            "4"
+        ],
+        "title": "Berry Apricot Smoothie",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4061138.jpg",
+        "paragraphe": "Banana, berries, fresh apricots, chia seeds, and protein powder blended with almondmilk make a quick and filling breakfast or snack",
+        "duration": [
+            "10 mins",
+            "10 mins",
+            "2",
+            "2 servings"
+        ],
+        "ingrediants": [
+            "1 ½ cups Original Unsweetened Almond Breeze Almondmilk",
+            "½ banana",
+            "1 cup mixed frozen berries",
+            "2 fresh apricots, pitted",
+            "1 tablespoon chia seeds",
+            "1 scoop protein powder"
+        ],
+        "steps": [
+            "Place all ingredients into blender and blend on high until smooth"
+        ],
+        "nutrition": "198 calories; protein 10.8g; carbohydrates 31.4g; fat 4.5g; sodium 190.6mg"
+    },
+    {
+        "id": "26",
+        "id_cat": [
+            "4"
+        ],
+        "title": "Yam Smoothie",
+        "imgURL": "https://images.food52.com/x7q8nbVQ44zbtw71I762L_DaKv0=/1200x900/9f91df41-e6ce-4f77-8c27-387fc9d16979--Sweet-Potato-Banana-Smoothie.jpg",
+        "paragraphe": "A delicious way to use up your blueberries",
+        "duration": [
+            "15 mins",
+            "5 mins",
+            "8",
+            "8 servings"
+        ],
+        "ingrediants": [
+            "2 medium yams",
+            "3 cups vanilla yogurt",
+            "1 cup milk",
+            "2 cups ice cubes",
+            "1 teaspoon white sugar",
+            "1 ripe banana, sliced"
+        ],
+        "steps": [
+            "Prick yams with a fork, and place on a plate",
+            "Cook in the microwave for 8 to 10 minutes, turning once, until tender",
+            "Cool, peel and dice.",
+            "Combine the yams, yogurt, milk, ice cubes, sugar and banana in the container of a blender",
+            "Blend until smooth"
+        ],
+        "nutrition": "227 calories; protein 7.2g; carbohydrates 45.9g; fat 2g; cholesterol 7mg; sodium 82.3mg"
+    },
+    {
+        "id": "25",
+        "id_cat": [
+            "4",
+            "3"
+        ],
+        "title": "Bananerberry Smoothie",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2500040.jpg",
+        "paragraphe": "A delicious way to use up your blueberries",
+        "duration": [
+            "10 mins",
+            "10 mins",
+            "2",
+            "2 servings"
+        ],
+        "ingrediants": [
+            "1 cup fresh strawberries",
+            "1 banana, sliced",
+            "1 cup fresh peaches",
+            "1 cup apples",
+            "1 ½ cups vanilla ice cream",
+            "1 ½ cups ice cubes",
+            "½ cup milk"
+        ],
+        "steps": [
+            "In a blender combine strawberries, banana, peaches, apples, and ice cream.",
+            "Blend until smooth",
+            "Add ice, pour in milk and blend again until smooth.",
+            "Serve immediately"
+        ],
+        "nutrition": "354 calories; protein 6.8g; carbohydrates 57.8g; fat 12.6g; cholesterol 48.4mg; sodium 108.7mg"
+    },
+    {
+        "id": "24",
+        "id_cat": [
+            "4"
+        ],
+        "title": "Blueberry Smoothie",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2500040.jpg",
+        "paragraphe": "A delicious way to use up your blueberries",
+        "duration": [
+            "5 mins",
+            "5 mins",
+            "2",
+            "2 servings"
+        ],
+        "ingrediants": [
+            "1 cup blueberries (frozen or fresh)",
+            "1 (8 ounce) container plain yogurt",
+            "¾ cup 2% reduced-fat milk",
+            "2 tablespoons white sugar",
+            "½ teaspoon vanilla extract",
+            "⅛ teaspoon ground nutmeg"
+        ],
+        "steps": [
+            "Blend the blueberries, yogurt, milk, sugar, vanilla, and nutmeg in a blender until frothy",
+            "scraping down the sides of the blender with a spatula occasionally",
+            "Serve immediately"
+        ],
+        "nutrition": "211 calories; protein 9.5g; carbohydrates 35.5g; fat 3.9g; cholesterol 14.1mg; sodium 117.8mg"
+    },
+    {
+        "id": "23",
+        "id_cat": [
+            "4"
+        ],
+        "title": "Fig Smoothie",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6236092.jpg",
+        "paragraphe": "Thick, and that sticky texture of figs, turn this smoothie into a yum-yum smoothie for those who like figs a lot or want to rid their fridge of this perishable fruit fast.",
+        "duration": [
+            "5 mins",
+            "5 mins",
+            "2",
+            "2 servings"
+        ],
+        "ingrediants": [
+            "2 frozen bananas, peeled and chopped",
+            "6 fresh figs, halved",
+            "¾ cup milk",
+            "¾ cup orange juice"
+        ],
+        "steps": [
+            "Place the bananas, figs, milk, and orange juice into a blender.",
+            "Cover, and puree until smooth.",
+            "Pour into glasses to serve."
+        ],
+        "nutrition": "335 calories; protein 6.4g; carbohydrates 77.7g; fat 3g; cholesterol 7.3mg; sodium 41.5mg"
+    },
+    {
+        "id": "22",
+        "id_cat": [
+            "4"
+        ],
+        "title": "Keto Chocolate Shake",
+        "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9431224.jpg",
+        "paragraphe": "Quick and tasty keto shake.",
+        "duration": [
+            "5 mins",
+            "5 mins",
+            "1",
+            "1 chocolate shake"
+        ],
+        "ingrediants": [
+            "1 cup unsweetened almond milk",
+            "1 medium avocado - peeled, pitted, and diced",
+            "⅓ cup fresh blueberries",
+            "1 teaspoon cacao powder",
+            "1 (1 gram) packet stevia powder",
+            "1/4 teaspoon MCT oil powder (optional)"
+        ],
+        "steps": [
+            "Combine almond milk, avocado, blueberries, cocoa powder, stevia powder, and MCT oil powder in a blender (such as NutriBullet®)",
+            "and blend for 30 seconds."
+        ],
+        "nutrition": "427 calories; protein 5.8g; carbohydrates 34.5g; fat 33.2g; sodium 174.4mg"
+    },
+    {
         "id": "21",
         "id_cat": [
-            "1","4"
+            "1",
+            "4"
         ],
         "title": "Keto Margarita",
         "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5578525.jpg",
@@ -33,7 +384,8 @@
     {
         "id": "20",
         "id_cat": [
-            "1","4"
+            "1",
+            "4"
         ],
         "title": "Keto Avocado-Spinach Smoothie",
         "imgURL": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6839734.jpg",
